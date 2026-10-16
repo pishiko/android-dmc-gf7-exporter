@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LUMIX DMC-GF7 Exporter</string>
+    <string name="header_title">Panasonic LUMIX DMC-GF7</string>
+    <string name="header_subtitle">Wi-Fi 画像エクスポーター</string>
+    <string name="label_total_camera">カメラ内総数</string>
+    <string name="label_saved">保存済み</string>
+    <string name="label_unsaved">未保存</string>
+    <string name="label_sync_progress">同期進捗</string>
+    <string name="button_connect">1. 接続</string>
+    <string name="button_save">2. 保存</string>
+    <string name="button_disconnect">3. 切断</string>
+    <string name="status_connected">接続状態: 接続済み</string>
+    <string name="status_connecting">接続状態: Wi-Fi接続・承認待ち...</string>
+    <string name="status_disconnected">接続状態: 未接続</string>
+    <string name="settings_title">設定</string>
+    <string name="label_camera_wifi_ssid">カメラWi-Fi SSID（前方一致可）</string>
+    <string name="hint_camera_wifi_ssid">例: MYCAM</string>
+    <string name="label_save_directory">保存先ディレクトリ</string>
+    <string name="hint_save_directory">例: DCIM/DMC-GF7</string>
+    <string name="label_camera_host">カメラIPアドレス</string>
+    <string name="hint_camera_host">例: 192.168.54.1</string>
+    <string name="button_apply_settings">設定を保存</string>
+    <string name="msg_settings_saved">設定を保存しました: %1$s</string>
+</resources>
